@@ -51,3 +51,14 @@ service-nodeport.yaml
 
 Скриншоты проверки доступа (curl или браузер).
 ### Ответ.
+<img width="638" height="410" alt="дз1(1)" src="https://github.com/user-attachments/assets/d88ec0d3-bcc0-4013-a8bc-b7657c9b929d" />
+<img width="507" height="263" alt="дз1(2)" src="https://github.com/user-attachments/assets/4f3dbfec-68b0-4b64-983c-7e4221bec8d2" />
+<img width="510" height="445" alt="дз1(3)" src="https://github.com/user-attachments/assets/2ac9d7f0-8b3b-4a14-9976-1ad3fbd500b2" />
+<img width="509" height="405" alt="дз1(4)" src="https://github.com/user-attachments/assets/4c6f8639-7ed8-46cd-81cd-dcdc48f92342" />
+<img width="511" height="614" alt="дз1(5)" src="https://github.com/user-attachments/assets/8a932236-4c06-4d7e-8855-2f0e6cd84794" />
+
+
+
+
+
+
