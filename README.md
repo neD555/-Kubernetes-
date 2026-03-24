@@ -105,6 +105,15 @@ ingress.yaml
 Скриншоты проверки доступа (curl или браузер).
 
 ### Ответ.
+<img width="511" height="380" alt="дз2(1)" src="https://github.com/user-attachments/assets/2b2f64d8-aa63-495c-a542-d43b4d135f94" />
+<img width="508" height="310" alt="дз2(2)" src="https://github.com/user-attachments/assets/16203132-99f1-4b97-a8a7-8c79e87f6f2c" />
+<img width="513" height="94" alt="дз2(3)" src="https://github.com/user-attachments/assets/07e7ae2b-8484-42bd-b3cc-bc79660367f3" />
+<img width="512" height="564" alt="дз2(4)" src="https://github.com/user-attachments/assets/3e9b7deb-c51a-4753-9d8e-c25877745daf" />
+<img width="511" height="322" alt="дз2(5)" src="https://github.com/user-attachments/assets/2db1af8c-42e1-4d76-807d-53b018119f75" />
+
+
+
+
 
 
 
